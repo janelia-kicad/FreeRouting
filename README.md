@@ -102,5 +102,5 @@ jar cfe freerouting.jar gui.MainApplication `find -type f \( -name "*.class" -o 
 ##Command Line Running
 
 ```
-java -jar freerouting.jar [project.dsn]
+java -jar freerouting.jar
 ```
