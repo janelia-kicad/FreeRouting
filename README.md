@@ -102,5 +102,6 @@ jar cfe freerouting.jar gui.MainApplication `find -type f \( -name "*.class" -o 
 ##Command Line Running
 
 ```
+sudo apt-get install openjdk-8-jre-headless
 java -jar freerouting.jar
 ```
