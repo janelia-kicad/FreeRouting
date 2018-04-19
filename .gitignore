@@ -46,4 +46,4 @@ docs/_build/
 RELEASE-VERSION
 
 *.class
-*.jar
+*.jar.DS_Store
